@@ -1,0 +1,73 @@
+body{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 3rem;
+  background:  #C8AFA9;
+}
+.logo img{
+  width: 20%;
+  float: left;
+}
+.container{
+  width: 100%;
+}
+.barra{
+    background: #C8AFA9;
+}
+.icono-redes {
+  float: right;
+  margin-top: 1.5rem;
+}
+.navbar{
+  background:#F57268;
+}
+.nav{
+  background:#F57268;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 2rem;
+}
+.nav a{
+  color: white;
+}
+.nav a:hover{
+  color: grey;
+}
+.becky {
+  background:#C8AFA9;
+  font-family: 'Shadows Into Light', cursive;
+  color: white;
+  text-align: center;
+}
+.letras{
+  background:  #C8AFA9;
+}
+
+.carita{
+  float: left;
+  border-radius: 10px;
+}
+#comentarios{
+  border-radius: 10px;
+  font-size: 3rem;
+  color:#C8AFA9;
+  float: left;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  }
+.icono{
+  font-size: 300%;
+  float: left;
+  color: white;
+}
+@media only screen and (max-width:600px) {
+  #comentarios{
+    width: 60%;
+
+  }
+
+}
+.icon{
+  background:  #C8AFA9;
+  font-size: 300%;
+  float: left;
+  color: white;
+}
